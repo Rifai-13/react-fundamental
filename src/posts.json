@@ -1,0 +1,24 @@
+[
+
+    {
+        "title" : "Belajar React",
+        "tags" : ["react","javascript","nodejs"],
+        "date": "2022-01-21",
+        "isNew" : true
+
+    },
+    {
+        "title" : "Belajar NodeJs",
+        "tags" : ["react","javascript","nodejs"],
+        "date": "2022-01-31",
+        "isNew" : false
+
+    },
+    {
+        "title" : "Belajar JavaScript",
+        "tags" : ["react","javascript","nodejs"],
+        "date": "2022-5-01",
+        "isNew" : false
+
+    }
+]
